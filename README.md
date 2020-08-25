@@ -28,3 +28,22 @@ The REST API will need to enable users to:
 | /house/:id/  | PATCH/PUT  | update  |
 | /house/:id  | DELETE  | destroy  |
 
+| Path  | HTTP Verb | Action |
+| ------------- | ------------- |------------- |
+| /person  | GET  | index |
+| /person/new  | GET  |new  |
+| /person  | POST  |create  |
+| /person/:id  | GET  |show  |
+| /person?{q}  | GET  | show  |
+| /person/:id/edit  | GET  | edit  |
+| /person/:id/  | PATCH/PUT  | update  |
+| /person/:id  | DELETE  | destroy  |
+
+
+| q  | type | Description |
+| ------------- | ------------- |------------- |
+| minAge  | number  | Search by age bracket |
+| maxAge  | number  |Search by age bracket  |
+| householdSize  | number  |Search by household size  |
+
+

@@ -25,4 +25,6 @@ The REST API will need to enable users to:
 | /house/:id/address  | GET  | show  |
 | /house/:id/owner  | GET  | show  |
 | /house/:id/edit  | GET  | edit  |
+| /house/:id/  | PATCH/PUT  | update  |
+| /house/:id  | DELETE  | destroy  |
 

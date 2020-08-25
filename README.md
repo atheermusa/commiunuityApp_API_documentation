@@ -13,3 +13,10 @@ The REST API will need to enable users to:
 
 # Schema 
 ![Diagram of Schema](https://i.imgur.com/m6Mo6E4.png)
+
+# Routes
+
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- |------------- |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  |Content Cell  |

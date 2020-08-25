@@ -16,7 +16,7 @@ The REST API will need to enable users to:
 
 # Routes
 
-Base url: api.alexandAtheer.com
+Base url: alexandAtheer/
 
 | Path  | HTTP Verb | Action |
 | ------------- | ------------- |------------- |

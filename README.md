@@ -47,3 +47,9 @@ The REST API will need to enable users to:
 | householdSize  | number  |Search by household size  |
 
 
+# Request & Response - Example
+
+![Request & Response - Eg](https://i.imgur.com/UEXipio.png)
+
+
+

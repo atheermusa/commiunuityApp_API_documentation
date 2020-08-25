@@ -18,5 +18,11 @@ The REST API will need to enable users to:
 
 | Path  | HTTP Verb | Action |
 | ------------- | ------------- |------------- |
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  |Content Cell  |
+| /house  | GET  | index |
+| /house/new  | GET  |new  |
+| /house  | POST  |create  |
+| /house/:id  | GET  |show  |
+| /house/:id/address  | GET  | show  |
+| /house/:id/owner  | GET  | show  |
+| /house/:id/edit  | GET  | edit  |
+

@@ -16,7 +16,7 @@ The REST API will need to enable users to:
 
 # Routes
 
-| First Header  | Second Header | Third Header |
+| Path  | HTTP Verb | Action |
 | ------------- | ------------- |------------- |
 | Content Cell  | Content Cell  | Content Cell |
 | Content Cell  | Content Cell  |Content Cell  |

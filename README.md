@@ -12,7 +12,7 @@ The REST API will need to enable users to:
 ***
 
 # Schema 
-![Diagram of Schema](https://i.imgur.com/m6Mo6E4.png)
+![Diagram of Schema](https://i.imgur.com/T43PFbs.png)
 
 # HTTP Status Codes
 

@@ -36,13 +36,14 @@ Base url: alexandAtheer/
 | /person/new  | GET  |new  |
 | /person  | POST  |create  |
 | /person/:id  | GET  |show  |
-| /person?{q}  | GET  | show  |
+| /person?{queryParameters}  | GET  | show  |
 | /person/:id/edit  | GET  | edit  |
 | /person/:id/  | PATCH/PUT  | update  |
 | /person/:id  | DELETE  | destroy  |
 
 
-| q  | type | Description |
+
+| queryParameters  | type | Description |
 | ------------- | ------------- |------------- |
 | minAge  | number  | Search by age bracket |
 | maxAge  | number  |Search by age bracket  |
